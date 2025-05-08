@@ -1,0 +1,297 @@
+
+{
+
+  "0" : "OpeningPage",
+
+  "stayConnected" : "Stay Connected",
+  "start" : "Start",
+
+
+  "1" : "Get Started Page",
+
+  "createAccount" : "Create Account",
+  "getStarted" : "to get started Now!",
+  "byContinuing" : "By continuing with an account located in ",
+  "youAgree" : "you agree to our ",
+  "terms" : "Terms of Services",
+  "acknowledge" : " and acknowledge that",
+  "youRead" : "you have read ",
+  "privacyPolicy" : "Privacy Policy.",
+  "signUp" : "Sign up",
+
+
+
+  "2" : "Phone Sign Up Page",
+
+  "addPhoneNumber" : "Add Phone Number",
+  "next" : "Next",
+  "pleaseRemove0" : "Please, remove 0 from the start of your number, it is already included in country code number.",
+
+
+
+  "3" :  "OTP Verification Page",
+
+  "phoneVerification" : "OTP Verification",
+  "getAMessage" : "You will receive a message contains a code",
+  "verifyCode" : "to verify your phone number",
+  "verifyNumber" : "Verify",
+  "pinCodeNotComplete" : "Pin code is not complete",
+  "resend" : "Resend.",
+  "enterPinCod" : "Enter your pin code",
+  "checkForInternet" : "checking for internet connection..",
+
+
+
+  "4" : "Add Profile Name Page",
+
+  "profileName" : "Profile Name",
+  "nameVisible" : "This name will be visible to anyone in the app.",
+  "nameMustNotBeEmpty" : "Profile name must not be empty.",
+
+
+
+
+  "5" : "Pick Profile Image Page",
+
+  "profilePhoto" : "Profile Photo",
+  "gallery" : "Gallery",
+  "camera" : "camera",
+  "accountCreated" : "Account created successfully..",
+
+
+
+
+  "6" : "Home Page",
+
+  "search" : "Search",
+  "chats" : "Chats",
+  "calls" : "Calls",
+  "groups" : "Groups",
+  "settings" : "Settings",
+  "tapOnCall" : "Just tap on the 'Call' button and make a call",
+  "toAnyContacts" : "to any contact.",
+  "profile" : "Profile",
+  "chatsSmall" : "chats",
+  "callsSmall" : "calls",
+  "groupsSmall" : "groups",
+  "calling" : "Calling",
+
+
+
+  "7" : "Chats Home Page",
+
+  "areYouSureDeleteTheseChats" : "Are you sure you want to delete these chats?",
+  "noChatsToDelete" : "No chats to delete",
+  "noMessagesYet" : "No messages yet..",
+  "today" : "Today",
+  "yesterday" : "Yesterday",
+
+
+
+
+
+  "8" : "Calls Home Page",
+
+  "noCallsYet" : "No calls yet..",
+  "clearCallsLog" : "clear calls log",
+  "areYouSureClearAllCalls" : "Are you sure you want to clear all calls?",
+  "noCallsToClear" : "No calls to clear",
+
+
+
+  "9" : "Groups Home Page",
+
+  "noGroupsYet" : "No groups yet",
+  "you" : "You",
+  "noMessages" : "(No messages yet)",
+
+
+  "10" : "Registered Contacts Page",
+
+  "startInviteFriends" : "Invite friends",
+  "shareLink" : "Share link on Tylo App with your",
+  "familyAndColleagues" : "friends, family and colleagues",
+  "invite" : "Invite",
+  "contacts" : "Contacts",
+  "noRegisteredContacts" : "There is no registered contacts..",
+  "makeVideoCallWith" : "Do you want to make a video call with",
+  "notAvailable" : "is currently not available.",
+  "thisContactBlockedYou" : "This contact has blocked you, you can not make a call.",
+  "youBlockedThisContact" : "You has blocked this contact, unblock him if you want to make a call.",
+  "allowPermission" : "Allow permission to load contacts..",
+  "noContacts" : "No contacts",
+
+
+
+
+  "11" : "Not Registered Contacts Page",
+
+  "shareTylo" : "Share Tylo App",
+  "selectContactToInvite" : "Select contact to invite them to join Tylo App",
+  "inviteFriends" : "Invite friends",
+  "iAmUsingTylo" : "Hey, i am using Tylo App, it\\'s awesome, download it and start to chat",
+
+
+
+
+  "12" : "Chat Room Page",
+
+  "messageDeleted" : "Message deleted successfully",
+  "typingNow" : "Typing now",
+  "iAmHere" : "I am here",
+  "away" : "Away",
+  "lastSeen" : "Last seen",
+  "videoCall" : "Video call",
+  "audioCall" : "Audio call",
+  "currentlyNotAvailable" : "is currently not available.",
+  "deleteThisChat" : "Are you sure you want to delete this chat?",
+  "doYouWantUnblock" : "You has already blocked this contact. Do you want to unblock?",
+  "removedFromBlockList" : "has been removed from Block List.",
+  "areYouSureToBlock" : "Are you sure you want to block this contact?",
+  "addedToBlockList" : "has been added to block List.",
+  "youBlockedContact" : "You blocked this contact.",
+  "sorryContactBlockedYou" : "Sorry, this contact has blocked you.",
+  "deleteChat" : "Delete chat",
+  "clearAllChats" : "Clear all chats",
+  "blockContact" : "Block contact",
+  "areYouSureToDeleteMessage" : "Are you sure you want to delete message?",
+  "sending" : "Sending",
+  "voiceNote" : "Voice note",
+  "audio" : "Audio",
+  "video" : "Video",
+  "image" : "Image",
+  "delete" : "delete",
+  "close" : "close",
+  "textMessage" : "Text message",
+  "imageFile" : "Image File",
+  "videoFile" : "Video File",
+  "audioFile" : "Audio File",
+  "pdfFile" : "PDF File",
+  "send" : "Send",
+  "isSendingAnImage" : "is sending an image",
+  "isSendingAVideo" : "is sending a video",
+  "yes" : "Yes",
+  "no" : "No",
+
+
+  "13" : "Group Chat Room Page",
+
+  "message": "message",
+  "messages": "messages",
+  "members" : "members",
+  "doYouWantDeleteGroup": "Are you sure you want to delete this group?",
+  "doYouWantExitGroup" : "Are you sure you want to exit group?",
+  "addContact" : "Add contact",
+  "removeContact" : "Remove contact",
+  "deleteGroup" : "Delete group",
+  "exitGroup" : "Exit group",
+  "add": "Add",
+  "remove": "Remove",
+
+
+
+  "14" : "Create New Group Page",
+
+  "newGroup" : "New group",
+  "groupName" : "group name",
+  "groupMustNotEmpty" : "Group name must not be empty.",
+  "createGroup" : "Create group",
+
+
+  "contact" : "contact",
+  "contactsSmallC" : "contacts",
+  "inviteFriendsToGroup" : "Invite friends to join a group",
+
+
+
+  "15" : "Group Details Page",
+
+  "groupDetails": "Group details",
+  "createdAt": "Created at:",
+  "groupOwner": "Group Owner:",
+  "membersWithCapital": "Members",
+
+
+
+  "16" : "Settings Page",
+
+  "accountSettings" : "Account Settings",
+  "blockList" : "Block List",
+  "appSettings" : "App Settings",
+  "appLanguages" : "App Languages",
+  "privacy" : "Privacy",
+  "logOut" : "Log Out",
+  "deleteAccount" : "Delete Account",
+  "loggingOut" : "Logging out, please wait.",
+
+
+
+  "17" : "Block List Page",
+
+  "blocList" : "Block list",
+  "blockListEmpty" : "Block list is empty",
+  "removeThisContactFRomBlockList" : "Remove this contact from block list?",
+
+
+
+  "18" : "App Languages Page",
+
+  "languages" : "Languages",
+
+
+
+  "19" : "Privacy Page",
+
+  "whoCanSeeMyInfo" : "Who can see my personal info",
+  "lastSeenAndOnlineStatus" : "Last seen and online status",
+  "photoVisibility" : "Photo visibility",
+
+
+
+  "20" : "Last Seen And Online Status Page",
+
+  "whoCanSeeMyLastSeen" : "Who can see last seen and online status",
+
+
+
+  "21" : "Photo Visibility Page",
+
+  "whoCanSeeMyPhoto" : "Who can see my profile photo",
+
+
+
+  "22" : "Edit Profile Page",
+
+  "editProfile" : "Edit profile",
+  "save" : "Save",
+  "cancel" : "Cancel",
+  "phoneNumberCapital": "Phone Number",
+  "name" : "Name",
+  "bio" : "Bio",
+  "typeSomething" : "Type something",
+  "phoneNumber" : "Phone number",
+
+
+  "23" : "Add New Contact Page",
+
+  "newContact" : "New Contact",
+  "contactName" : "Contact name",
+  "contactPhoneNumber" : "Contact phone number",
+  "phone" : "phone",
+
+
+  "24" : "Profile Details Page",
+
+  "block" : "Block",
+  "online" : "Online",
+  "chatC" : "Chat",
+
+
+  "25" : "Video Call Page",
+
+  "callEnded" : "Call ended",
+  "ongoingCall" : "Ongoing Call",
+
+
+  "noInternetConnection" : "No internet connection"
+}

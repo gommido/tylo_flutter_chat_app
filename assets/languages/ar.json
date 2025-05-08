@@ -1,0 +1,279 @@
+
+{
+
+  "0" : "OpeningPage",
+
+  "stayConnected" : "تواصل باستمرار",
+  "start" : "ابـدأ",
+
+
+  "1" : "Get Started Page",
+
+  "createAccount" : "انشـيء حساب",
+  "getStarted" : "لتبدأ في الحال",
+  "byContinuing" : "بالإستمرار في عمل الحساب الموجود في ",
+  "youAgree" : "فأنت توافق علي ",
+  "terms" : "شروط الخدمة ",
+  "acknowledge" : "وأنك قد أقريت أنك ",
+  "youRead" : "علي علم بـ ",
+  "privacyPolicy" : "سياسة الخصوصية",
+  "signUp" : "تسجيل",
+
+
+  "2" : "Phone Sign Up Page",
+
+  "addPhoneNumber" : "ادخل رقم الهاتف",
+  "next" : "التالي",
+  "pleaseRemove0" : "من فضلك قم بحذف الرقم 0 من بداية رقم الهاتف فهو بالفعل متوفر في كود الدولة.",
+
+
+
+  "3" :  "OTP Verification Page",
+
+  "phoneVerification" : "كود التحقق",
+  "getAMessage" : "ستصلك رسالة تحتوي علي كود",
+  "verifyCode" : "ليتم التحقق من رقم هاتفك",
+  "verifyNumber" : "تحقق",
+  "notReceive" : "لم تصلك أية رسالة؟ ",
+  "resend" : "إعادة إرسال",
+  "enterPinCod" : "ادخل الرمز التأكيدي",
+  "checkForInternet" : "التحقق من وجود إنترنت",
+
+
+
+  "4" : "Add Profile Name Page",
+
+  "profileName" : "إسم الملف الشخصي",
+  "nameVisible" : "هذا الإسم سيكون متاحا للجميع علي التطبيق",
+  "nameMustNotBeEmpty" : "إسم الملف الشخصي لا يجب أن يكون فارغا",
+
+
+
+  "5" : "Pick Profile Image Page",
+
+  "profilePhoto" : "صورة الملف الشخصي",
+  "gallery" : "المعرض",
+  "camera" : "الكاميرا",
+  "accountCreated" : "تم إنشاء الحساب بنجاح",
+
+
+
+  "6" : "Home Page",
+
+  "search" : "بحث",
+  "chats" : "محادثات",
+  "calls" : "مكالمات",
+  "groups" : "مجموعات",
+  "settings" : "الإعدادات",
+  "tapOnCall" : "فقط اضغط علي أيقونة الإتصال لعمل مكالمة",
+  "toAnyContacts" : "لأي جهة إتصال",
+  "profile" : "الملف الشخصي",
+  "chatsSmall" : "chمحادثاتats",
+  "callsSmall" : "مكالمات",
+  "groupsSmall" : "مجموعات",
+  "calling" : "يتصـل",
+
+
+
+  "7" : "Chats Home Page",
+
+  "areYouSureDeleteTheseChats" : "هل أنت متأكد أنك تريد حذف هذه المحادثات؟",
+  "noChatsToDelete" : "لا توجد محادثات لحذفها",
+  "noMessagesYet" : "لا توجد رسائل بعد",
+  "today" : "اليوم",
+  "yesterday" : "أمس",
+
+  "8" : "Calls Home Page",
+
+  "noCallsYet" : "لا توجد مكالمات بعد",
+  "clearCallsLog" : "حذف كل المكالمات",
+  "areYouSureClearAllCalls" : "هل أنت متأكد أنك تريد حذف هذه المكالمات؟",
+  "noCallsToClear" : "لا توجد مكالمات لحذفها",
+
+
+  "9" : "Groups Home Page",
+
+  "noGroupsYet" : "لا توجد مجمعات بعد",
+  "you" : "أنت",
+  "noMessages" : "(لا توجد رسائل)",
+
+
+
+  "10" : "Registered Contacts Page",
+
+  "startInviteFriends" : "قم بدعوة الأصدقاء",
+  "shareLink" : "قم بمشاركة التطبيق مع ",
+  "familyAndColleagues" : "أصدقائك, عائلتك وزملاءك",
+  "invite" : "دعوة",
+  "contacts" : "جهات الإتصال",
+  "noRegisteredContacts" : "لا توجد جهات إتصال مسجلة",
+  "makeVideoCallWith" : "هل تريد عمل إتصال فيديو مع ",
+  "notAvailable" : "غير متاح الآن",
+  "thisContactBlockedYou" : "هذا الرقم قد قام بحظرك, لاي يمكنك التواصل معه الإن",
+  "youBlockedThisContact" : "لقد حظرت هذا الرقم, قم بفك الحظر إذا كنت تريد التواصل معه",
+  "allowPermission" : "قم بالسماح للأذونات لتحميل جهات الإتصال",
+
+
+  "11" : "Not Registered Contacts Page",
+
+  "shareTylo" : "شارك تطبيـق Tylo",
+  "selectContactToInvite" : "قم بإختيار جهة أتصال لدعوته للتطبيق",
+  "inviteFriends" : "دعوة الأصدقاء",
+  "iAmUsingTylo" : "مرحبا, أنا أستخدم تطبيق تايلو, إنه تطبيق رائع, قم بتحميله لنبدأ الدردشة حالا",
+
+
+
+
+  "12" : "Chat Room Page",
+
+  "messageDeleted" : "تم حذف الرسالة بنجاح",
+  "typingNow" : "يكتب الآن",
+  "iAmHere" : "أنا هنـا",
+  "away" : "بعيد",
+  "lastSeen" : "آخر ظهور",
+  "videoCall" : "إتصال فيديو",
+  "audioCall" : "إتصال صوتي",
+  "currentlyNotAvailable" : "غير متاح الآن",
+  "deleteThisChat" : "هل أنت متأكد من حذف هذه المحادثة؟",
+  "doYouWantUnblock" : "لقد قمت بالفعل حظر هذا الرقم, هل تريد فك الحظر عنه؟",
+  "removedFromBlockList" : " تم إزالة الرقم من قائمة الحظر",
+  "areYouSureToBlock" : "هل أنت متأكد من حظر هذا الرقم؟",
+  "addedToBlockList" : "قد تم إضافته لقائمة الحظر",
+  "youBlockedContact" : "لقد قمت بحظر هذا الرقم",
+  "sorryContactBlockedYou" : "عفوا, هذه الرقم قد قام بحظرك",
+  "deleteChat" : "حذف المحادثة",
+  "clearAllChats" : "حذف كل المحادثات",
+  "blockContact" : "حظر الرقم",
+  "areYouSureToDeleteMessage" : "هل أنت متأكد من حذف الرسالة؟",
+  "sending" : "إرسال",
+  "voiceNote" : "فويس نوت",
+  "audio" : "صوت",
+  "video" : "فيديو",
+  "image" : "صورة",
+  "delete" : "حذف",
+  "close" : "إنهاء",
+  "textMessage" : "اكتب رسالتك",
+  "imageFile" : "ملف صورة",
+  "videoFile" : "ملف فيديو",
+  "audioFile" : "ملف صوتي",
+  "pdfFile" : "ملف PDF",
+  "send" : "إرسال",
+  "isSendingAnImage" : " يرسل صورة",
+  "isSendingAVideo" : " يرسل فيديو",
+  "yes" : "نعم",
+  "no" : "لا",
+
+
+
+  "13" : "Group Chat Room Page",
+
+  "message": "رسالة",
+  "messages": "رسائل",
+  "members" : "أعضاء",
+  "doYouWantDeleteGroup": "هل أنت متأكد من حذف هذه المجموعة؟",
+  "doYouWantExitGroup" : "هل أنت متأكد من الخروج من هذه المجموعة؟",
+  "addContact" : "إضافة جهة أتصال",
+  "removeContact" : "حذف جهة أتصال",
+  "deleteGroup" : "حذف المجموعة",
+  "exitGroup" : "الخروج من المجموعة",
+  "add" : "إضافة",
+  "remove": "حذف",
+
+
+  "14" : "Create New Group Page",
+
+  "newGroup" : "مجموعة جديدة",
+  "groupName" : "إسم المجموعة",
+  "groupMustNotEmpty" : "إسم المجموعة لا يجب أن يكون فارغا",
+  "createGroup" : "إنشاء المجموعة",
+
+  "contact" : "contact",
+  "contactsSmallC" : "contacts",
+  "inviteFriendsToGroup" : "Invite friends to join a group",
+
+
+
+  "15" : "Group Details Page",
+
+  "groupDetails": "معلومات المجموعة",
+  "createdAt": "تم الإنشاء في:",
+  "groupOwner": "مالك المجموعة:",
+  "membersWithCapital": "الأعضاء",
+
+
+
+  "16" : "Settings Page",
+
+  "accountSettings" : "إعدادات الحساب",
+  "blockList" : "قائمة الحظر",
+  "appSettings" : "إعدادات التطبيق",
+  "appLanguages" : "لغة التطبيق",
+  "privacy" : "الخصوصية",
+  "logOut" : "تسجيل الخروج",
+  "deleteAccount" : "حذف الحساب",
+  "loggingOut" : "يتم تسجيل الخروج, برجاء الإنتظار",
+
+
+
+  "17" : "Block List Page",
+
+  "blocList" : "قائمة الحظر",
+  "blockListEmpty" : "قائمة الحظر فارغة",
+  "removeThisContactFRomBlockList" : "حذف هذا الرقم من قائمة الحظر؟",
+
+
+  "18" : "App Languages Page",
+
+  "languages" : "اللغات",
+
+
+  "19" : "Privacy Page",
+
+  "whoCanSeeMyInfo" : "من لديه الحق في الإطلاع علي معلوماتي الشخصية",
+  "lastSeenAndOnlineStatus" : "آخر طهور و وإذا ما كنت متاجا الآن أم لا",
+  "photoVisibility" : "من لديه الحق في الإطلاع علي صورة الملف الشخصي",
+
+
+  "20" : "Last Seen And Online Status Page",
+
+  "whoCanSeeMyLastSeen" : "من لديه الحق في الإطلاع علي آخر طهور و وإذا ما كنت متاجا الآن أم لا",
+
+
+  "21" : "Photo Visibility Page",
+
+  "whoCanSeeMyPhoto" : "من يستطيع الإطلاع علي صورة الملف الشخصي",
+
+
+
+  "22" : "Edit Profile Page",
+
+  "editProfile" : "تعديل الملف الشخصي",
+  "save" : "تأكيد",
+  "cancel" : "إلغاء",
+  "phoneNumberCapital": "رثم الهاتف",
+  "name" : "الإسم",
+  "bio" : "الأخبار",
+
+
+
+  "23" : "Add New Contact Page",
+
+  "newContact" : "جهة إتصال جديدة",
+  "contactName" : "إسم جهة الإتصال",
+  "contactPhoneNumber" : "رقم جهة الإتصال",
+  "phone" : "الرقم",
+
+
+  "24" : "Profile Details Page",
+
+  "block" : "حظـر",
+  "online" : "متاح الآن",
+  "chatC" : "محادثة",
+
+  "25" : "Video Call Page",
+
+  "callEnded" : "تم إنتهاء المكالمة",
+  "ongoingCall" : "إتصال جاري",
+
+  "noInternetConnection" : "لا يوجد إنترنت"
+}
