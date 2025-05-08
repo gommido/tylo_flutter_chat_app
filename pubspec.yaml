@@ -19,8 +19,6 @@ dependencies:
   firebase_auth: ^5.1.2
   cloud_firestore: ^5.1.0
   firebase_storage: ^12.1.1
-  google_sign_in: ^6.2.1
-  firebase_messaging: ^15.0.3
 
   connectivity_plus: ^6.0.3
   image_picker: ^1.1.2
@@ -49,7 +47,6 @@ dependencies:
   audio_waveforms: ^1.0.5
   dartz: ^0.10.1
   cached_video_player_plus: ^3.0.2
-  ffmpeg_kit_flutter: ^6.0.3
   intl: ^0.18.1
   set_ringtone: ^1.0.0
   flutter_local_notifications: ^17.2.1+2
