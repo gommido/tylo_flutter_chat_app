@@ -70,7 +70,6 @@ class _HomeLayoutPageState extends State<HomeLayoutPage>  with WidgetsBindingObs
       child: HomePageContactsCubitListenerWidget(
         child: HomePageHomeCubitListenerWidget(
           child: customPopScope(
-            canPop: false,
             onPopInvoked: (didPop){
               if (didPop) {
                 return;
